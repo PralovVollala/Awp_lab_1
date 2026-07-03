@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(2, 107, 255);
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: rgb(174, 0, 0);
+}
+
+b {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    background: white;
+    color: black;
+}
+
+th {
+    background: rgb(87, 87, 237);
+    color: white;
+    padding: 8px;
+}
+
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+button {
+    background: white;
+    color: blue;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(120, 255, 131);
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 14px;
+}
